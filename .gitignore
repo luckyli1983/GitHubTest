@@ -7,8 +7,6 @@
 #
 .utmp/
 /[Ll]ibrary/
-/.codely-cli/
-/.codely.packages/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
